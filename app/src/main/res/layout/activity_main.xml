@@ -73,7 +73,6 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="sendMessage"
         android:text="@string/calcButtonText"
         android:id="@+id/calcButton"
         android:layout_column="1"
